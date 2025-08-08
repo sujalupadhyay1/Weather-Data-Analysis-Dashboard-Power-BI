@@ -1,4 +1,4 @@
-# Weather Report1 — Power BI Weather Dashboard
+# Weather analysies — Power BI Weather Dashboard
 
 ##  Overview
 Weather Report1 is a **Power BI** solution that connects to a live weather API, processes raw JSON data, and delivers an interactive dashboard for **current conditions**, **hourly forecasts**, and **daily forecasts**.  
