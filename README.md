@@ -5,6 +5,13 @@ Weather Report1 is a **Power BI** solution that connects to a live weather API, 
 The project showcases **ETL with Power Query (M)**, **data modeling**, and **DAX measures** to produce actionable insights for multiple cities.
 
 ---
+## 📊 Dashboard Preview
+  
+
+### Main Dashboard
+![Main Dashboard](weather dashborad.png)
+
+---
 
 ##  Features
 - **Live Weather Data** — Current temperature, humidity, wind speed, and condition cards for each city.
