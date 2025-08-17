@@ -9,7 +9,7 @@ The project showcases **ETL with Power Query (M)**, **data modeling**, and **DAX
   
 
 ### Main Dashboard
-![Main Dashboard](weather dashborad.png)
+![Main Dashboard](weather_dashborad.png)
 
 ---
 
